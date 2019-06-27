@@ -1,14 +1,8 @@
 ---
-title: "My site is up and running!"
-author: "Thomas McGuckian"
+title: My site is up and running!
+author: Thomas McGuckian
 date: 2019-06-27T21:13:14-05:00
-#categories: ["R"]
-#tags: ["R Markdown", "plot", "regression"]
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
 # Welcome
 
