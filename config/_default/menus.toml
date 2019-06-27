@@ -11,17 +11,17 @@
 [[main]]
   name = "Recent Updates"
   url = "#posts"
-  weight = 15
+  weight = 20
 
 [[main]]
   name = "Guides and Videos"
   url = "courses/"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Contact"
