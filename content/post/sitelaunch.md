@@ -2,6 +2,7 @@
 title: My site is up and running!
 author: Thomas McGuckian
 date: 2019-06-27T21:13:14-05:00
+draft: false
 ---
 
 # Welcome
