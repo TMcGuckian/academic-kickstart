@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research and teaching interests include skill aquisition and motor control, sport and exercise psychology, and coaching science. See my posts for guides and examples of how I have used various software to complete my research and create content.
+bio: My research and teaching interests include skill aquisition and motor control, sport and exercise psychology, and coaching science. See the [guides and videos](/courses) section for examples of how I have used various programs to complete my research and create content.
 education:
   courses:
   - course: Doctor of Philosophy
@@ -51,4 +51,4 @@ user_groups:
 - Visitors
 ---
 
-Coming soon...
+Thomas McGuckian is a sessional lecturer in the School of Behavioural and Health Sciences at Australian Catholic University, Brisbane, Australia. While completing his PhD, which investigated the visual exploratory actions of youth football players, he has gained vast teaching experience across a range of sports science disciplines. His main teaching and research interests are in skill aquisition and motor control, sport and exercise psychology, and how these disciplines combine in the area of coaching science. 

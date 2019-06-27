@@ -14,7 +14,7 @@ type: docs
 weight: 1
 ---
 
-This series includes guides and examples of the processes I have used to create different content for publications, presentations, etc. A list of the different guides can be found on the left. To make navigation easy, each guide is seperated by the program that I primarily used. You can also search for content using the search bar. 
+This series includes guides and examples of the processes I have used to create different content for publications, presentations, etc. A list of the different guides can be found on the left. To make navigation easy, each guide is seperated by the program that I primarily used. You can also search for content using the search bar. On the right, you will find a contents navigation. This will take you to the different sections within a guide.
 
 ## Why I am starting this series
 I have spent the last three (or so) years completing a PhD in sport science. Over this time I have grown to thoroughly enjoy using various software to help me produce content that will communicate my ideas in an attractive way. Some of this involved learning to code in RStudio, but other examples include using SketchUp and Adobe Illustrator. For some, being able to use these programs may not seem like particularly special skills, but for many it seems like an enormous wall that needs to be climbed just to get started. This is how I felt before I got stuck into using them myself.  
