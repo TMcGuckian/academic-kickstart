@@ -9,4 +9,4 @@ draft: false
 
 Welcome to my personal website. At the top of the page you can navigate to different sections of the site. You can also search the site. Take a look around and get in touch if you have any questions.  
 
-The main reason for creating this site is the  section. There isn't much there are the moment, but over time I will grow this into a resource that will hopefully be helpful to many. When there is a new gudie available, I will post an update too. Stay tuned!
+My main reason for creating this site is the [Guides and Videos](/courses) section. There isn't much there are the moment, but over time I will grow this into a resource that will hopefully be helpful to many. When there is a new gudie available, I will post an update too. Stay tuned!
