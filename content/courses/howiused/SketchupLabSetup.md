@@ -5,7 +5,7 @@ linktitle: To create a schematic figure of a lab setup
 menu:
   howiused:
     parent: SketchUp
-    weight: 1
+    weight: 3
 title: How I used SketchUp to create a schematic figure of a lab setup
 toc: true
 type: docs

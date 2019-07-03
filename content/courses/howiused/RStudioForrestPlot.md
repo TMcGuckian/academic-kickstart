@@ -5,11 +5,11 @@ linktitle: To create a custom forrest plot
 menu:
   howiused:
     parent: RStudio
-    weight: 2
+    weight: 1
 title: How I used RStudio to create a custom forrest plot
 toc: true
 type: docs
-weight: 2
+weight: 1
 ---
 
 In this post, I will outline how I used RStudio to create custom forrest plots for publication. Follow [this link](/publication/2018_Frontiers) to see the forrest plots in the paper. 
