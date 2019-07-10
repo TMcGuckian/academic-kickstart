@@ -1,6 +1,6 @@
 ---
 date: "2019-06-27T00:00:00Z"
-draft: true
+draft: false
 lastmod: "2019-06-28T00:00:00Z"
 linktitle: Presentation recordings
 menu:
