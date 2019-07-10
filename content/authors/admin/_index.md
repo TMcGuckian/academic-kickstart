@@ -18,6 +18,7 @@ education:
     year: 2014
 email: ""
 interests:
+- Decision-making and situation awareness
 - Skill aquisition and motor control
 - Sport and exercise psychology
 - Coaching science
@@ -25,7 +26,7 @@ name: Thomas McGuckian
 organizations:
 - name: Australian Catholic University
   url: ""
-role: Sessional Lecturer / Sport Scientist
+role: Sport Scientist / Researcher / Sessional Lecturer
 social:
 - icon: envelope
   icon_pack: fas
@@ -51,4 +52,8 @@ user_groups:
 - Visitors
 ---
 
-Thomas McGuckian is a sessional lecturer in the School of Behavioural and Health Sciences at Australian Catholic University, Brisbane, Australia. While completing his PhD, which investigated the visual exploratory actions of youth football players, he has gained vast teaching experience across a range of sports science disciplines. His main teaching and research interests are in skill aquisition and motor control, sport and exercise psychology, and how these disciplines combine in the area of coaching science. 
+I am a sessional lecturer in the School of Behavioural and Health Sciences at Australian Catholic University, Brisbane, Australia. While completing my PhD, which investigated the visual exploratory actions of youth football players, I have gained vast teaching experience across a range of sports science disciplines. My main teaching interests are in skill aquisition and motor control, sport and exercise psychology, and coaching science. My main research interests are in visual scanning, training design and the development of decision-making and situation awareness. 
+
+You can find my a list of [my publications here](/publication) and a series of [guides and videos here](/courses).
+
+If you would like to get in touch, please use the contact options at the bottom of the page. I am interested to hear any ideas about future research or applied opportunities, and welcome feedback on my research and the content on this website. 
