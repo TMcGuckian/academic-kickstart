@@ -9,18 +9,23 @@
   weight = 10
 
 [[main]]
-  name = "Recent Updates"
+  name = "Recent Posts"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Guides and Videos"
+  name = "Videos"
   url = "courses/"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
+  weight = 50
+
+[[main]]
+  name = "Consulting"
+  url = "#consulting"
   weight = 40
 
 [[main]]

@@ -2,7 +2,6 @@
 header:
   caption: ""
   image: ""
-layout: docs
-title: Videos
+title: Consulting
+view: 2
 ---
-
