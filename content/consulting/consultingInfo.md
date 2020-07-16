@@ -5,18 +5,6 @@ date: 2020-07-15T21:13:14-05:00
 draft: false
 ---
 
-# 1st level heading
+# To be updated soon.
 
-Consulting info.  
-
-
-Text
-
-## 2nd level Heading
-Text
-
-Insert image... 
-![figure](/files/figure2.jpg)
-
-Link to (which you can find [here](/files/figure2_paper_Cook.pdf)). 
-
+If you would like to discuss consulting options, please use the contact options via the navigation pane. 
